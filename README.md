@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RajaRanjithkumar17
--UI developer 
+RajaRanjithkumar
+UI developer 
 
 
 <!---
