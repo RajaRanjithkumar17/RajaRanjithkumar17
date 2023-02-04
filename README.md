@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajaRanjithkumar17
-- 👀 I’m looking for Web developer 
-- 🌱 I’m currently learning Front End Developing
+-UI developer 
+
 
 <!---
 RajaRanjithkumar17/RajaRanjithkumar17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
